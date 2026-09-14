@@ -1,0 +1,30 @@
+.background{
+    background-color: #2909e2;
+    height: 100vh;
+    width: 100vw;
+}
+
+.green{
+    height: 300px;
+    width: 150px;
+    background-color: #009246;
+    position: relative;
+    top: 250px;
+    left: 150px;
+}
+
+.white{
+    height: 300px;
+    width: 150px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 150px;
+}   
+
+.red{
+    height: 300px;
+    width: 150px;
+    background-color: #ce2b37;
+    position: absolute;
+    left: 150px;
+}
